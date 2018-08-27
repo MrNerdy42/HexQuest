@@ -1,0 +1,19 @@
+{
+  "name": "hex_quest",
+  "version": "1.0.0",
+  "description": "Colored hexagons moving around the screen. What more could you ask for?",
+  "main": "app.js",
+  "dependencies": {
+    "@types/socket.io": "^1.4.37",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0",
+    "socket.io": "^2.1.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrNerdy42",
+  "license": "WTFPL"
+}
